@@ -1,0 +1,108 @@
+header {
+    opacity: 0.75;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    line-height: 1;
+    height: 120px;
+}
+
+h2 {text-align: center;
+margin: 0;
+padding: 0;}
+
+ul li {
+display: inline-block;
+background-color: #05A8AA;
+list-style: none;
+margin: 0 auto;
+width: 20%;
+padding: 10px 20px;
+margin-bottom:3px;
+}
+
+#blue {background-color: lightblue; height: 25%;}
+#pink {background-color: pink; height: 25%;}
+#yellow {background-color: lightyellow;height: 25%;}
+#beige {background-color: beige;height: 25%;}
+#light {background-color: lightgrey;height: 25%;}
+#green {background-color: lightgreen;height: 25%;}
+#purple {background-color: #7d3cff;
+height: 25%;}
+#sand {background-color: #e1b382;height: 25%;}
+#night {background-color: #2d545e;height: 25%;}
+#red {background-color: #FF0000;height: 25%;}
+
+.colors {width: 100%;
+    border : 3px solid coral;;
+display: inline-block;
+margin-bottom: 20px;}
+
+.fonts {width: 100%;
+    border :3px solid coral;
+margin-bottom: 20px;}
+
+#georgia {font-family: Georgia, 'Times New Roman', Times, serif;}
+#georgiab {font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bold;}
+#georgiai {font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold; font-style :italic;}
+
+#raleway {font-family: Raleway, sans-serif;}
+#ralewayb {font-family: Raleway, sans-serif;
+font-weight: bold;}
+#ralewayi {font-family: Raleway ,sans-serif;
+font-weight: bold; font-style :italic;}
+
+#comic {font-family: "Comic Neue", serif;}
+#comicb {font-family: "Comic Neue", serif;
+font-weight: bold;}
+#comici {font-family: "Comic Neue" ,serif;
+font-weight: bold; font-style :italic;}
+
+#arial {font-family: Arial, Helvetica, sans-serif serif;}
+#arialb {font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;}
+#ariali {font-family: Arial, Helvetica, sans-serif
+font-weight: bold; font-style :italic;}
+
+.text {width: 100%;
+        border :3px solid coral;
+    }
+#sub {text-align: left;}
+
+
+.fonts .f {display: inline-block;
+padding-right: 7%;}
+
+.container {
+    width: 100%;
+  }
+  
+  .one {
+    width: 50%;
+    float: left;
+  }
+  
+  .two {
+    margin-left: 52%;
+    height:100vh;
+    border: 3px solid coral;
+  }
+
+  .back1 {height: 25%;
+    background-image: url(./back1.jpg);
+    opacity: 50%;
+    margin-bottom: 10px;}
+
+    .back2 {height: 25%;
+    background-image: url(./back2.jpg);
+    opacity: 50%;
+margin-bottom: 10px;}
+
+    .back3 {height: 25%;
+        background-image: url(./abstract.jpg);
+        opacity: 50%;}
